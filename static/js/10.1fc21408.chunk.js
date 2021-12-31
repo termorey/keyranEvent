@@ -1,0 +1,2 @@
+(this.webpackJsonpkeyranEvent=this.webpackJsonpkeyranEvent||[]).push([[10],{45:function(e,n,t){e.exports={content:"event1_content__Nmm5f",wrapper:"event1_wrapper__QnViW",cardsList:"event1_cardsList__3mLMf",answersList:"event1_answersList__21KE6",controls:"event1_controls__2Bm9d",sound:"event1_sound__29R7m"}}}]);
+//# sourceMappingURL=10.1fc21408.chunk.js.map

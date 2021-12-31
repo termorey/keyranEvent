@@ -1,0 +1,2 @@
+(this.webpackJsonpkeyranEvent=this.webpackJsonpkeyranEvent||[]).push([[15],{49:function(a,e,t){"use strict";t.r(e),e.default=t.p+"static/media/Frame.6da921ac.png"}}]);
+//# sourceMappingURL=15.0b2f99d9.chunk.js.map

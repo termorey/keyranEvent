@@ -1,0 +1,2 @@
+(this.webpackJsonpkeyranEvent=this.webpackJsonpkeyranEvent||[]).push([[4],{30:function(t,e,n){"use strict";n.r(e);n(0);var s=n(16),a=n(1);e.default=function(t){return Object(a.jsx)(s.default,{})}}}]);
+//# sourceMappingURL=4.d130e548.chunk.js.map
